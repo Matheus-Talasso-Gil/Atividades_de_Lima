@@ -2,8 +2,16 @@
     background-color: lightgray;
     color: black;
     font-family: Arial, sans-serif;
+    margin: 24px;
+    line-height: 1.5;
 }
 
 h1 {
     color: blue;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid gray;
+    margin: 16px 0;
 }
